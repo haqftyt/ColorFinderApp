@@ -10,11 +10,5 @@ This App has ColorScreen components it will used to show the color which is type
 
 The InputColor components consists of input field and toggle button
 
-### Technologies used
-
-# CSS
-# REACT-JS
-
-# Live Link
-
-https://ColorFinderApp.vercel.app
+# Live Link:
+https://color-finder-app.vercel.app/
